@@ -1,3 +1,6 @@
+Run application
+use curl tool to execute following urls
+
 
 USER 
 
